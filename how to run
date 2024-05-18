@@ -1,0 +1,8 @@
+backend- 
+node app.js
+
+frontend_
+npm run dev
+
+
+
